@@ -370,6 +370,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>TestNewField__c</fullName>
+        <externalId>false</externalId>
+        <label>TestNewField</label>
+        <length>200</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>TestUberField__c</fullName>
         <externalId>false</externalId>
         <label>TestUberField</label>
