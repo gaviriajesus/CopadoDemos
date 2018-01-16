@@ -199,6 +199,16 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>ECU4_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>ECU4 Field</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>External_Id__c</fullName>
         <externalId>true</externalId>
         <label>External Id</label>
